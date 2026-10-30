@@ -1,11 +1,8 @@
-
 window.RufflePlayer = window.RufflePlayer || {};
 
 window.RufflePlayer.config = {
     autoplay: "on",
     unmuteOverlay: "visible",
-    splashScreen: false,
-    showSwfDownload: false
     splashScreen: false,
     showSwfDownload: false
 };
